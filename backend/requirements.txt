@@ -20,7 +20,7 @@ kiwisolver==1.4.9
 MarkupSafe==3.0.2
 matplotlib==3.10.6
 protobuf==3.20.*
-git+https://github.com/google/mediapipe.git
+mediapipe==0.10.11
 ml_dtypes==0.5.3
 numpy==2.2.6
 opencv-python-headless==4.12.0.88
